@@ -1,0 +1,39 @@
+<% include ../partials/head %>
+<% include ../partials/header %>
+<% include ../partials/nav %>
+<main>
+    <section>
+        <h1>products</h1>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea atque, dignissimos nostrum facere magnam iusto! Eos possimus laboriosam, ad, quaerat veniam itaque animi impedit delectus nam deleniti vitae, consequuntur pariatur.</p>
+		<ul class="cardList"></ul>
+    </section>
+</main>
+
+<template id="cardTemplate">
+	<li>
+		<article class="cardList__card">
+			<img src="" alt="">
+			<h1></h1>
+			<p></p>
+			<table>
+				<tr>
+                    <td>Land</td>
+                    <td class="country"></td>
+                </tr>
+                <tr>
+                    <td>Vægt</td>
+                    <td class="price"></td>
+                </tr>
+                <tr>
+                    <td>Pris</td>
+                    <td class="weight"></td>
+                </tr>
+			</table>
+			<a href="">Læs mere</a>
+		</article>
+	</li>
+</template>
+<script src="/assets/javascript/getProdukts.js"></script>
+<% include ../partials/footer %>
+<% include ../partials/after-footer %>
+  

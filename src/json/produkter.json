@@ -1,0 +1,53 @@
+[
+    {
+        "sku": "245556a",
+        "navn": "Feta",
+        "beskrivelse": [
+            "loramj mjc",
+            "kosdnhd"
+        ],
+        "land": "Dansk",
+        "pris": 34.65,
+        "vægt": 250,
+        "billder": [
+            "feta01.jpg",
+            "feta02.jpg",
+            "feta03.jpg",
+            "feta04.jpg"
+        ]
+    },
+    {
+        "sku": "265356a",
+        "navn": "Feyyt",
+        "beskrivelse": [
+            "loramj mjc",
+            "kosdnhd"
+        ],
+        "land": "Dansk",
+        "pris": 366.65,
+        "vægt": 210,
+        "billder": [
+            "feta01.jpg",
+            "feta02.jpg",
+            "feta03.jpg",
+            "feta04.jpg"
+        ]
+    },
+    {
+        "sku": "oijvdv",
+        "navn": "kage",
+        "beskrivelse": [
+            "loramj mjc",
+            "kosdnhd"
+        ],
+        "land": "Dansk",
+        "pris": 34.5888,
+        "vægt": 244,
+        "billder": [
+            "feta01.jpg",
+            "feta02.jpg",
+            "feta03.jpg",
+            "feta04.jpg"
+        ]
+    }
+]
